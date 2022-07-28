@@ -1,8 +1,34 @@
-# TM-UserProfile
+# trademaster-web
 
-This module is designed for TradeMaster users to manage their operations or browse TradeMaster products. These are current capabilities for the users via their profile:
+## Project setup
+```
+npm install
+```
 
- - Browsing TradeMaster Products
- -  Purchasing items
- -  Completing their identification for creating e-commerce account
- - Checking user information
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your unit tests
+```
+npm run test:unit
+```
+
+### Run your end-to-end tests
+```
+npm run test:e2e
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
